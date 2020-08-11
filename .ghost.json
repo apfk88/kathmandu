@@ -1,0 +1,10 @@
+    {
+        "development": {
+            "apiUrl": "https://pathlight.ghost.io",
+            "contentApiKey": "43451c2b4e7e5d98fb637a133b"
+        },
+        "production": {
+            "apiUrl": "https://pathlight.ghost.io",
+            "contentApiKey": "43451c2b4e7e5d98fb637a133b"
+        }
+    }
